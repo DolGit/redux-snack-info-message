@@ -1,6 +1,6 @@
 {
   "name": "@dolnpm/redux-snack-messages",
-  "version": "0.1.1-development",
+  "version": "0.1.2-development",
   "description": "Logic for Material UI snack messages with Redux",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -22,7 +22,7 @@
   },
   "dependencies": {
     "@material-ui/core": "^3.3.1",
-    "@dolnpm/react-redux-init-app": "^0.1.5-development",
+    "@dolnpm/react-redux-init-app": "^0.1.8-development",
     "prop-types": "^15.6.2",
     "react": "^16.3.2",
     "react-dom": "^16.4.2",
