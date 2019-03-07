@@ -1,6 +1,6 @@
 {
   "name": "@dolnpm/redux-snack-messages",
-  "version": "0.1.2-development",
+  "version": "0.1.3-development",
   "description": "Logic for Material UI snack messages with Redux",
   "main": "lib/index.js",
   "module": "es/index.js",
