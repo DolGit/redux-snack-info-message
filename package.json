@@ -1,6 +1,6 @@
 {
   "name": "@dolnpm/redux-snack-messages",
-  "version": "0.1.5-development",
+  "version": "0.1.6-development",
   "description": "Logic for Material UI snack messages with Redux",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -20,7 +20,7 @@
     "semantic-release": "semantic-release",
     "travis-deploy-once": "travis-deploy-once"
   },
-  "dependencies": {
+  "peerDependencies": {
     "@material-ui/core": "*",
     "@dolnpm/react-redux-init-app": "*",
     "prop-types": "*",
